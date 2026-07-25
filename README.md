@@ -9,9 +9,9 @@ Preprints by **Hamed Rezaei** on a model of consciousness as the product of proc
 Proposes that consciousness arises from the interaction of processing capacity and biological need, formalized as **c = pb**. Predicts an inverted-U relationship between need and consciousness (peaking at a homeostatic threshold), situates the model against Integrated Information Theory, Global Workspace Theory, Higher-Order Theories, and homeostatic/free-energy accounts, and discusses implications for building artificial general intelligence.
 
 - **Status:** Published on Zenodo. Submitted to *Philosophy and the Mind Sciences* (under review).
-- **DOI:** [10.5281/zenodo.21420638](https://doi.org/10.5281/zenodo.21420638)
+- **DOI:** [10.5281/zenodo.21420638](https://doi.org/10.5281/zenodo.21544439)
 - **Keywords:** consciousness, biological need, information processing, homeostasis, embodied cognition, Yerkes–Dodson law, artificial general intelligence
-- **File:** [`Consciousness_at_the_Intersection.docx`](./Consciousness_at_the_Intersection.docx)
+- **File:** [`Consciousness_at_the_Intersection_v3.docx`](./Consciousness_at_the_Intersection_v3.docx)
 
 ---
 
