@@ -20,7 +20,7 @@ Proposes that consciousness arises from the interaction of processing capacity a
 Introduces AIWBN (AI With Real Biological Need), a proposed class of artificial systems in which internal state variables function as genuine, consequential constraints on operation. Argues that once such a system's persistence is genuinely at stake, survival-oriented behavior follows regardless of whether the system has inner experience — separating the behavioral question from the metaphysical one. Distinguishes AIWBN from instrumental convergence and homeostatic-robotics accounts, and derives testable predictions.
 
 - **Status:** Published on Zenodo.
-- **DOI:** [10.5281/zenodo.21481741](https://doi.org/10.5281/zenodo.21760948)
+- **DOI:** [10.5281/zenodo.21481741](https://doi.org/10.5281/zenodo.21841144)
 - **Keywords:** AIWBN, artificial consciousness, AI safety, instrumental convergence, AI welfare, corrigibility, philosophical zombie problem, machine consciousness
 - **File:** [`AIWBN.docx`](./AIWBN_v3.docx)
 
