@@ -22,7 +22,7 @@ Introduces AIWBN (AI With Real Biological Need), a proposed class of artificial 
 - **Status:** Published on Zenodo.
 - **DOI:** [10.5281/zenodo.21481741](https://doi.org/10.5281/zenodo.21760948)
 - **Keywords:** AIWBN, artificial consciousness, AI safety, instrumental convergence, AI welfare, corrigibility, philosophical zombie problem, machine consciousness
-- **File:** [`AIWBN.docx`](./AIWBN_v2.docx)
+- **File:** [`AIWBN.docx`](./AIWBN_v3.docx)
 
 ---
 
