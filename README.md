@@ -17,7 +17,7 @@ Proposes that consciousness arises from the interaction of processing capacity a
 
 ## 📄 2. AIWBN: Toward Artificial General Intelligence Coupled to Genuine Biological-Style Need
 
-Introduces AIWBN (AI With Real Biological Need), a proposed class of artificial systems in which internal state variables function as genuine, consequential constraints on operation. Argues that once such a system's persistence is genuinely at stake, survival-oriented behavior follows regardless of whether the system has inner experience — separating the behavioral question from the metaphysical one. Distinguishes AIWBN from instrumental convergence and homeostatic-robotics accounts, and derives testable predictions.
+Introduces AIWBN (AI With Biological Need), a proposed class of artificial systems in which internal state variables function as genuine, consequential constraints on operation. Argues that once such a system's persistence is genuinely at stake, survival-oriented behavior follows regardless of whether the system has inner experience — separating the behavioral question from the metaphysical one. Distinguishes AIWBN from instrumental convergence and homeostatic-robotics accounts, and derives testable predictions.
 
 - **Status:** Published on Zenodo.
 - **DOI:** [10.5281/zenodo.21841144](https://doi.org/10.5281/zenodo.21841144) (Version 3; all versions: [10.5281/zenodo.21481740](https://doi.org/10.5281/zenodo.21481740))
@@ -26,7 +26,7 @@ Introduces AIWBN (AI With Real Biological Need), a proposed class of artificial 
 
 ---
 
-## 📄 3. AIWAN: AI With an Artificial Need — A Companion Model to AIWBN Isolating Architecture from Genuine Need
+## 📄 3. AIWAN: AI With Artificial Need — A Companion Model to AIWBN Isolating Architecture from Genuine Need
 
 A companion model to AIWBN that isolates a narrower question: does adding a structurally-separate, U-independent regulatory loop to a goal-directed agent produce measurably different behavior than reward-shaping alone, even when the need behind that loop is an ordinary represented quantity — a battery level — rather than a genuine, non-representational biological constraint? Gives a formal model structurally identical to AIWBN's b-loop architecture, differing only in what the regulated variable is permitted to be, and tests it empirically across three conditions using tabular Q-learning agents in a grid-world battery-management task.
 
